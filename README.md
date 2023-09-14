@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Prodesic**
 
-- 🌱 I’m currently learning **Dart, Flutter,**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 👨‍💻 All of my projects are available at [gunisharma.com](gunisharma.com)
 
