@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
-- 👨‍💻 All of my projects are available at [gunisharma.com](gunisharma.com)
+- 👨‍💻 All of my projects are available at [gunisharma.com](gunisharma.com) (not yet lol)
 
 - 💬 Ask me about **React, Express, Mongoose, Node.js, Vite, Ardiuno Programming**
 
