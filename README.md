@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Etch**
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently learning **Deep Learning, Neural Networks, & Computer Vision with OpenCV, Keras, PyTorch, & TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://gunisharma.com](https://gunisharma.com)
 
-- 💬 Ask me about **React, Express, Mongoose, Node.js, Vite, Ardiuno Programming**
+- 💬 Ask me about **React, Software Engineering, Machine Learning, Deep Learning, Javascript, Python, & Ardiuno Programming**
 
 - 📫 How to reach me **gunishsharma20@gmail.com**
 
