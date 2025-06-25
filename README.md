@@ -6,13 +6,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gundogcodes" alt="gundogcodes" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🔭 I’m currently working on **An IOS App!**
 
-- 🌱 I’m currently learning **Deep Learning, Neural Networks, & Computer Vision with OpenCV, Keras, PyTorch, & TensorFlow**
+- 🌱 I’m currently learning **SWIFT & SWIFTUI**
 
 - 👨‍💻 All of my projects are available at [https://gunisharma.com](https://gunisharma.com)
 
-- 💬 Ask me about **React, Software Engineering, Machine Learning, Deep Learning, Javascript, Python, & Ardiuno Programming**
+- 💬 Ask me about **React, Software Engineering, Machine Learning, SWIFT, Javascript, Python, & Ardiuno Programming**
 
 - 📫 How to reach me **gunishsharma20@gmail.com**
 
