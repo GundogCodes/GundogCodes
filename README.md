@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gundogcodes" alt="gundogcodes" /></a> </p>
 
-- 🔭 I’m currently working on **An IOS App!**
+- 🔭 I’m currently working on many **iOS Apps!**
 
 - 🌱 I’m currently learning **SWIFT & SWIFTUI**
 
