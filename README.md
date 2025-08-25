@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Software Engineering, Machine Learning, SWIFT, Javascript, Python, & Ardiuno Programming**
 
-- 📫 How to reach me **gunishsharma20@gmail.com**
+- 📫 How to reach me **business@gunisharma.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
