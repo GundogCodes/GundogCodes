@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gundogcodes" alt="gundogcodes" /></a> </p>
 
-- 🔭 I’m currently working on many **iOS Apps!**
+- 🔭 I’m currently working on a **macOS app**
 
-- 🌱 I’m currently learning **SWIFT & SWIFTUI**
+- 🌱 I’m currently learning **CNNs with Pytorch, Java & Andriod Studio Development, Search Alogrithims, and Computer Architecture**
 
 - 👨‍💻 All of my projects are available at [https://gunisharma.com](https://gunisharma.com)
 
